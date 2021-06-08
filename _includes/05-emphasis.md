@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm a **python** fan, also, im really into _databases_ like __derby__, _mariadb_, **postgresql**, *mongodb*, _gunjs_ and many more
